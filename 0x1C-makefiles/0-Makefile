@@ -1,0 +1,2 @@
+all:
+	gcc Alliance.c main.c -o Alliance
